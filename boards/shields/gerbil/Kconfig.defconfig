@@ -1,0 +1,6 @@
+if SHIELD_GERBIL
+
+config ZMK_KEYBOARD_NAME
+    default "gerbil"
+
+endif
